@@ -1,5 +1,5 @@
 body {
-  background-color: grey
+  background-color: white
 }
 
 h1 {
@@ -7,7 +7,7 @@ h1 {
   text-align: center;
 }
 
-div{background-color: black }
+div{background-color: grey}
 
 p {
   font-family: verdana;
